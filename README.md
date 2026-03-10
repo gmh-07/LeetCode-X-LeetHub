@@ -35,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
