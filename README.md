@@ -43,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
