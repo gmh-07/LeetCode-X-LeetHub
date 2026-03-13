@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gmh-07/LeetCode-X-LeetHub/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
